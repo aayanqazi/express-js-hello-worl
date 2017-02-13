@@ -1,0 +1,12 @@
+{
+  "name": "nile-book",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "express": "~4.8.8"
+  },
+  "dependencies": {
+    "express": "~4.8.8"
+  }
+
+}
