@@ -6,7 +6,7 @@
     "express": "~4.8.8"
   },
   "dependencies": {
+    "body-parser": "^1.16.1",
     "express": "~4.8.8"
   }
-
 }
